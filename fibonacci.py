@@ -12,7 +12,7 @@ print( lst )
 
 
 a, b = 0, 1
-# ls = []
+ls = []
 while a < 100:
     ls.append( a )
     a, b = b, a+b 
