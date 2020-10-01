@@ -42,6 +42,7 @@
 #         if( num % i == 0 ):
 #             lst.append( i )
 #     return lst 
+# print( lst )
 #
 # number = int( input( "enter :" ))
 # divs = div( number )
