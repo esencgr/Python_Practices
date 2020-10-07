@@ -151,19 +151,20 @@
 # sayi = int(input("Sayı:"))
 # print( sayi_oku( sayi ) )
 
-
 # # # # 6- 1'den 100'e kadar olan sayılardan pisagor üçgeni oluşturanlarını bulan fonksiyon yazın.(a <= 100,b <= 100)
-# def ps( ):
+def ps( ):
     
-#     lst = list()    
+    lst = list()    
     
-#     for i in range( 1, 101 ):
-#         for j in range( 1, 101 ):
-#             k = ( i ** 2 + j ** 2 ) ** 0.5
-#             if ( int( k ) == k ) :
-#                 lst.append( (i, j, int(k) ))
+    for i in range( 1, 101 ):
+        for j in range( 1, 101 ):
+            k = ( i ** 2 + j ** 2 ) ** 0.5
+            if ( int( k ) == k ) :
+                lst.append( (i, j, int(k) ))
 
-#     return lst
+    return lst
 
-# for i in ps():
-#     print( i )
+for i in ps():
+    print( i )
+
+ 
