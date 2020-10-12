@@ -3,7 +3,6 @@ import cv2
 import numpy
 import matplotlib
 import scipy
-
 import pandas
 import selenium
 from selenium import webdriver
