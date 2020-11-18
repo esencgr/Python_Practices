@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
-
 while( True ):
-    p = 1 
+    p = 3
     num = (input( "enter number( exit : q ) = " ))
     
     if( num == "q" ):
