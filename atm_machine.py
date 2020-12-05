@@ -19,7 +19,7 @@ while( True ):
     elif( choise == "2" ):
         ex = int(input( "how much money invest want you : " ))
         money += ex 
-        print( f"update balance = {money}" ),
+        print( f"update balance = {money}" )
         
     elif( choise == "3" ):
         ex = int(input( "how much withdraw money want you : " ))
