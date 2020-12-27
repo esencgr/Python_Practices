@@ -1,3 +1,0 @@
-name : eser
-visit : 0
-note : new user

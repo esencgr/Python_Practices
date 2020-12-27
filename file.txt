@@ -1,2 +1,0 @@
-name:cgr
-visit:3
