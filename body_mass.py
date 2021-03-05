@@ -6,8 +6,8 @@
 #  If BMI is below 18.5 -------> Weak
 #  If BMI is between 18.5 and 25 ------> Normal
 #  If your BMI is between 25 and 30 --------> Overweight
-#  If BMI is over 30 -------------> Obese,
- 
+#  If BMI is over 30 -------------> Obese
+
 h = float(input("height:"))
 w = int(input("weight:"))
 
