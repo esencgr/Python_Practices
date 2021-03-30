@@ -6,7 +6,6 @@
 #    q - çıkış
 
 money = 1000
-
 while( True ):
     choise = input( "choise : " )
 
